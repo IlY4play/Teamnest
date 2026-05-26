@@ -1,0 +1,1 @@
+ALTER TABLE "applicants" ADD COLUMN "start_year_of_education" integer NOT NULL;
